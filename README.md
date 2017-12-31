@@ -1,13 +1,13 @@
 # Custom mLinux images for The Things Network
 
 These are custom
-[mLinux](http://www.multitech.net/developer/software/mlinux/) imagex
+[mLinux](http://www.multitech.net/developer/software/mlinux/) images
 for the [Multitech](http://www.multitech.com) [MultiConnect®
 Conduit™](http://www.multitech.net/developer/products/multiconnect-conduit-platform/)
 and [MultiConnect® Conduit™
 AP](http://www.multitech.net/developer/products/multiconnect-conduit-access-point/)
 built for use as [The Things
-Network](https://console.thethingsnetwork.org/).gateways.
+Network](https://console.thethingsnetwork.org/) gateways.
 
 For details on how these images differ from the standard images, see
 the appropriate branch in [meta-ttni
@@ -31,3 +31,9 @@ Note that by default, most of the configuration of you Conduit or
 Conduit AP is lost when doing a firmware upgrade. So preform an
 upgrade *before* configuring your device or be prepared to
 reconfigure.
+
+# See Also
+
++ [mLinux layer for building these images](https://github.com/IthacaThings/meta-ttni)
++ [Ansible configuration for managing Conduits](https://github.com/IthacaThings/ttn-multitech-cm)
++ [Container environment for building mLinux on newer system](https://hub.docker.com/r/jchonig/mlinux-be/)
