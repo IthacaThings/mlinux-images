@@ -1,5 +1,5 @@
 6836bab7e3d6edcc66c30e4fe0a95d5a  at91bootstrap_pmecc_padded.bin
 d4b9fe820ee0159db00c07072f0a18bf  at91sam9x5ek-nandflashboot-uboot-3.5.3-r3.bin
-deb13eb03dd005afd494eb4d1fcdbc6e  ttni-base-image-mtcdt-upgrade.bin
-b76c270df5cf299322e00520e86b0d69  ttni-base-image-mtcdt-upgrade-withboot.bin
+bd599415fd46d78ff022e2643267da54  ttni-base-image-mtcdt-upgrade.bin
+1a1869b1e4f1a88e853dcd059870b781  ttni-base-image-mtcdt-upgrade-withboot.bin
 128354f09c241b3c086ca22587b991e1  u-boot-mtcdt-2012.10-r6.bin
