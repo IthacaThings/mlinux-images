@@ -23,7 +23,7 @@ version are named _mtcdt_ for Conduit images and _mtcap_ for Conduit
 AP images.
 
 ```
-root@mtcdt:~# wget https://github.com/IthacaThings/mlinux-images/raw/master/3.13.3/mtcdt/ttni-base-image-mtcdt-upgrade-withboot.bin
+root@mtcdt:~# wget https://github.com/IthacaThings/mlinux-images/raw/master/3.3.13/mtcdt/ttni-base-image-mtcdt-upgrade-withboot.bin
 root@mtcdt ~# /usr/sbin/mlinux-firmware-upgrade /home/root/ttni-base-image-mtcdt-upgrade-withboot.bin
 ```
 
