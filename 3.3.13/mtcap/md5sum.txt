@@ -1,0 +1,5 @@
+e763ab99c967790f114345ee9394306b  at91bootstrap_pmecc_padded.bin
+63a5387578015bff357cc411364a2115  at91sam9x5ek-nandflashboot-uboot-3.5.3-r3.bin
+fe7a156fa0c12740bdf5ab8fdfc8e060  ttni-base-image-mtcap-upgrade.bin
+86ab46edb238bc935c98c97f5f32a557  ttni-base-image-mtcap-upgrade-withboot.bin
+d9d80c44fd22b64b0527ddf1bc4c34fe  u-boot-mtcap-2012.10-r6.bin
