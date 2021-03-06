@@ -1,5 +1,1 @@
-ffed09eec416cbc1853ddc672a552011  at91bootstrap_pmecc_padded.bin
-cd9ffe4d9439cd0f1e1b243070683dbe  ttni-base-image-mtcap-upgrade.bin
-d90bcfa76b99f1b20b6af159acdebe0b  ttni-base-image-mtcap-upgrade-withboot.bin
-3cc227c2fe608143adc74a8dea1ba5c7  u-boot-mtcap-2016.09.01-m3.bin
-e05c7c0c9810f09088495cfc44378e41  uImage--4.9.87-r12.2-mtcap-20210306011711.bin
+66c3a20ace6842c85b339bf3dea797ad  ttni-base-image-mtcap-upgrade.bin
