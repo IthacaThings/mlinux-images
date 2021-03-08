@@ -1,1 +1,1 @@
-66c3a20ace6842c85b339bf3dea797ad  ttni-base-image-mtcap-upgrade.bin
+01fbe85b03a9ed3088783b17d2705b98  ttni-base-image-mtcap-upgrade.bin
