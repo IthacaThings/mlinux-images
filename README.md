@@ -15,6 +15,8 @@ layer](https://github.com/IthacaThings/meta-ttni).  For example, for
 mLinux 3.x see the [mlinux-3
 branch](https://github.com/IthacaThings/meta-ttni/tree/mlinux-3)
 
+Note that these images are no longer being updated to github as they exceed the recommended size restrictions.  They are available at https://ttni.tech/mlinux/images
+
 # Usage
 
 To install one of these images on a Conduit or Conduit AP, download
@@ -23,8 +25,9 @@ version are named _mtcdt_ for Conduit images and _mtcap_ for Conduit
 AP images.
 
 ```
-root@mtcdt:~# wget https://github.com/IthacaThings/mlinux-images/raw/master/3.3.13/mtcdt/ttni-base-image-mtcdt-upgrade-withboot.bin
-root@mtcdt ~# /usr/sbin/mlinux-firmware-upgrade /home/root/ttni-base-image-mtcdt-upgrade-withboot.bin
+root@mtcdt:~# cd /var/volatile
+root@mtcdt:~# wget https://ttni.tech/mlinux/images/mtcdt/3.3.24/ttni-base-image-mtcdt-upgrade-withboot.bin
+root@mtcdt ~# /usr/sbin/mlinux-firmware-upgrade ${PWD}/ttni-base-image-mtcdt-upgrade-withboot.bin
 ```
 
 Note that by default, most of the configuration of you Conduit or
