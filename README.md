@@ -26,14 +26,16 @@ AP images.
 
 ```
 root@mtcdt:~# cd /var/volatile
-root@mtcdt:~# wget https://ttni.tech/mlinux/images/mtcdt/3.3.24/ttni-base-image-mtcdt-upgrade-withboot.bin
-root@mtcdt ~# /usr/sbin/mlinux-firmware-upgrade ${PWD}/ttni-base-image-mtcdt-upgrade-withboot.bin
+root@mtcdt:~# wget https://ttni.tech/mlinux/images/mtcdt/5.3.0b/ttni-base-image-mtcdt-upgrade.bin
+root@mtcdt ~# /usr/sbin/mlinux-firmware-upgrade ${PWD}/ttni-base-image-mtcdt-upgrade.bin
 ```
+For a Multitech Conduit Access Point, substitute *mtcap* for *mtcdt* in above lines.
 
-Note that by default, most of the configuration of you Conduit or
-Conduit AP is lost when doing a firmware upgrade. So preform an
+Note that by in some many, most of the configuration of you Conduit or
+Conduit AP is lost when doing a firmware upgrade. So perform an
 upgrade *before* configuring your device or be prepared to
-reconfigure.
+reconfigure.  
+If you use the _Ansible configuration for managing Conduits_ noted below, configuration should be preserved.
 
 # See Also
 
